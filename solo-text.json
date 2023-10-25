@@ -10,6 +10,9 @@
         "more": "更多",
         "featuredGift": "精选伴手礼"
     },
+    "images": {
+        "headBg": "https://lanhu.oss-cn-beijing.aliyuncs.com/SketchPng78ddb596bc75170563fb21a2f9772ba3654fc81d5570048e38f6bbdeef469ee9"
+    },
     "cards": [
         {
             "image": "https://lanhu-dds-backend.oss-cn-beijing.aliyuncs.com/merge_image/imgs/fd6c69d8d99f48ecb20e56cd9bfaaace_mergeImage.png",
