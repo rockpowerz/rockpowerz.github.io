@@ -11,7 +11,7 @@
         "featuredGift": "精选伴手礼"
     },
     "images": {
-        "headBg": "https://lanhu.oss-cn-beijing.aliyuncs.com/SketchPng78ddb596bc75170563fb21a2f9772ba3654fc81d5570048e38f6bbdeef469ee9"
+        "headBg": "head-bg.png"
     },
     "cards": [
         {
