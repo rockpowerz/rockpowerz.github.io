@@ -123,7 +123,7 @@ window.g = {
         }
     ],
     partnerIcon: [
-        "partner-01.png",
+        "partner-02.png",
         "partner-02.png",
         "partner-03.png",
         "partner-04.png",
