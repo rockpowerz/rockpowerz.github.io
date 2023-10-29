@@ -102,7 +102,7 @@ window.g = {
             title: "​海南航空“满江红 红到家”春节限定电影主题航班正式启航",
             words: "在即将迎来2023年新春佳节之际，海南航空联合猫眼电影、机队WiFi运营商飞享互联于1月18日北京—成都HU7147航班上，举办了张艺谋执导的春节档电影《满江红》的空中首次宣发主题活动“满江红 红到家”，邀请旅客在万米高空入局限时解谜，带给大家不一样的乘机体验。",
             thumb: "news_manjianghong.png",
-            logo: "weixinLOGO.png"
+            logo: "xxx.png"
         }
     ],
     partnerData: [
@@ -123,7 +123,7 @@ window.g = {
         }
     ],
     partnerIcon: [
-        "partner-02.png",
+        "partner-21.png",
         "partner-02.png",
         "partner-03.png",
         "partner-04.png",
